@@ -23,4 +23,4 @@ The Map Reduce algorithm basically consists of two main functions <b>Map</b> and
 # Implementation
 |Original Image|White Matter|Gray Matter|Cerebrospinal Fluid|
 |:------:|:------:|:------:|:------:|
-|<img src="./Assets/Images/mri.jpeg" width="300" height="200">|<img src="./Assets/Images/white_matter.jpg" width="300" height="200">|<img src="./Assets/Images/gray_matter.jpg" width="300" height="200">|<img src="./Assets/Images/cerebrospinal_fluid.jpg" width="300" height="200">|
+|<img src="./Assets/Images/mri.jpeg" width="512" height="512">|<img src="./Assets/Images/white_matter.jpg" width="512" height="512">|<img src="./Assets/Images/gray_matter.jpg" width="512" height="512">|<img src="./Assets/Images/cerebrospinal_fluid.jpg" width="512" height="512">|
