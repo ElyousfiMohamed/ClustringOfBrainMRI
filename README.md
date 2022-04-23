@@ -21,6 +21,8 @@ The Map Reduce algorithm basically consists of two main functions <b>Map</b> and
 <img src="./Assets/Images/map-reduce.png" width="561" height="283">
 
 # Implementation
+Clustering of a cerebral MRI image. The image is in grid level (grayscale image) where the value of each pixel is between 0 and 255 (0 represents the black color and 255 represents the white color). The image shows three parts of the brain namely white matter, gray matter and cerebrospinal fluid, the objective is to know the pixels of each part.
+
 |Original Image|White Matter|Gray Matter|Cerebrospinal Fluid|
 |:------:|:------:|:------:|:------:|
 |<img src="./Assets/Images/mri.jpeg" width="300" height="200">|<img src="./Assets/Images/white_matter.jpg" width="300" height="200">|<img src="./Assets/Images/gray_matter.jpg" width="300" height="200">|<img src="./Assets/Images/cerebrospinal_fluid.jpg" width="300" height="200">|
